@@ -1,0 +1,6 @@
+@XmlParser_HostAddress = http://localhost:5252
+
+GET {{XmlParser_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

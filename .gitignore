@@ -1,0 +1,88 @@
+# .NET Core
+.vs/
+.vscode/
+.idea/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer packages
+*.vsix
+
+# .NET build output
+bin/
+obj/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Azure Web App publishing
+.publish/
+
+# .NET Core temporary files
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# User secrets file (Do not push this to GitHub)
+secrets.json
+
+# Local History (Rider/IntelliJ)
+.idea/
+
+# Configuration files containing sensitive data (exclude from version control)
+appsettings.json
+appsettings.Development.json
+appsettings.Production.json
+appsettings.Staging.json
+
+# JetBrains Rider project files
+.idea/
+
+# Npm package directories
+node_modules/
+
+# npm debug log
+npm-debug.log
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# macOS Finder files
+.DS_Store
+
+# Thumbnails
+Thumbs.db
+
+# .NET Core test results
+TestResults/
+
+# Coverage folder for code coverage
+coverage/
+
+# VS Code settings folder
+.vscode/
+
+# Azure DevOps files
+.azure-pipelines.yml
+
+# Ignore JetBrains Rider config files
+.idea/
+
+# Ignore Rider project config files
+.idea/
+
+# Ignore local dev environment settings files
+*.local
